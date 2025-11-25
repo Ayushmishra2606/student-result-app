@@ -9,3 +9,9 @@ To integrate all foundational web development concepts — HTML, CSS, JavaScript
 
 
 json-server --watch db.json --port 3001
+
+Bridge-Labz 
+Ayush Kumar Mishra 
+Section CB
+Roll 17
+Univ-Roll - 2315510048
