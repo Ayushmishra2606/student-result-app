@@ -1,13 +1,6 @@
 {
   "students": [
     {
-      "id": "1",
-      "name": "Ayush",
-      "roll": "17",
-      "section": "CB",
-      "result": "80"
-    },
-    {
       "id": "861e",
       "name": "Raja Ram",
       "roll": "22",

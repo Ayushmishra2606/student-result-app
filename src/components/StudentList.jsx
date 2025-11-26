@@ -17,7 +17,7 @@ export default function StudentList({ students, fetchStudents, setEditingStudent
             <th>Roll</th>
             <th>Section</th>
             <th>Marks</th>
-            <th>Actions</th>
+            
           </tr>
         </thead>
 
